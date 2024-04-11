@@ -4,7 +4,8 @@ Is a clone of the Risk board game featuring local multiplayer. While I remember 
 This is an old project I created in May of 2019 using Unity 2019.2.
 
 ### Platforms:
-Mobile, PC, or web.
+The game can be played on the web from the [itch.io page](https://pc-hris.itch.io/risk-and-reward)
+The Windows and Android builds can also be downloaded from the [releases section](https://github.com/Noobot9k/Risk-Reward/releases)
 
 ### How to play:
 The game is designed around touch-screen controls so the keyboard is not used.
