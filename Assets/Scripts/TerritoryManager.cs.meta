@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b9d1fd266ed84ee40992308482f184a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TerritoryBillboardDataPrefabReference: {fileID: 1370261834051833126, guid: aabb7cdf86040a9409e63bafe78a5d85,
+      type: 3}
+  - TerritoryBillboardData: {instanceID: 0}
+  - UnitCountTextReference: {instanceID: 0}
+  - TerritoryNameTextReference: {instanceID: 0}
+  - UnitGainTextReferencePrefab: {fileID: 6844222697752376746, guid: 86d242daf3e3ed14cbd0f35cda288a00,
+      type: 3}
+  - UnitLossTextReferencePrefab: {fileID: 3298211944038416248, guid: 41e8ccadca852464c8fa422a3807e8ee,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

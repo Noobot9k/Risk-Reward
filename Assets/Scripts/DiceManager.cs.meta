@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe3d412cc497ce644bcf356b67f7be6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DiceRollerPrefab: {fileID: 5973223826965462223, guid: c03bdb50dce45784b982e028eeb9d843,
+      type: 3}
+  - DicePrefab: {fileID: 4208047190513156302, guid: fcc120eac5df37a46b09748068a2a0f5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
