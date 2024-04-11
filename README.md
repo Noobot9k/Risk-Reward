@@ -28,7 +28,6 @@ During the "maneuver" phase, tap/click and drag from an occupied territory with 
 ![image](MARKETING/Screenshots/2024-04-10%20(11).png)
 ![image](MARKETING/Screenshots/2024-04-10%20(2).png)
 ![image](MARKETING/Screenshots/2024-04-10%20(3).png)
-![image](MARKETING/Screenshots/2024-04-10%20(4).png)
 ![image](MARKETING/Screenshots/2024-04-10%20(5).png)
 ![image](MARKETING/Screenshots/2024-04-10%20(6).png)
 ![image](MARKETING/Screenshots/2024-04-10%20(7).png)
